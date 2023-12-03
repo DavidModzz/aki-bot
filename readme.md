@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/DavidModzz/Davidmodzz">
-    <img src="https://es.akinator.mobi/bundles/elokencesitemobile/images/akitudes_520x650/defi.png?v95" alt="Logo" width="80" height="80">
+    <img src="https://ibb.co/zJb1xQ3" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Akinator Bot</h3>
