@@ -1,0 +1,20 @@
+{
+  "name": "aki-bot",
+  "version": "1.0.0",
+  "description": "Bot de akinator en WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "https://github.com/davidmodzz/aki-bot",
+  "author": "DavidModzz",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.5.0",
+    "@hapi/boom": "^10.0.1",
+    "cli-color": "^2.0.3",
+    "node-cache": "latest",
+    "readline": "latest",
+    "aki-api": "6.0.9"
+  }
+}
