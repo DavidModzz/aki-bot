@@ -38,7 +38,7 @@ async function startAki() {
 
   if (!client.authState.creds.registered) {
     const phoneNumber = await question(
-      `\nEscribe tú número de WhatsApp:\nEjemplo: ${clc.bold("14154758639")}\n/> `
+      `\nEscribe tú número de WhatsApp en formato internacional:\nEjemplo: ${clc.bold("14154758639")}\n/> `
     );
     const code = await client.requestPairingCode(phoneNumber);
     console.log(`Tu codigo de conexión es: ${clc.bold(code)}\n`);
