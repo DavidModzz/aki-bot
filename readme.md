@@ -5,6 +5,9 @@
   </a>
 
   <h3 align="center">Akinator Bot</h3>
+  <a href="https://github.com/MGalaCyber">
+    <img src="https://komarev.com/ghpvc/?username=DavidModzz/Aki-Bot&style=for-the-badge&label=VISITANTES&color=6e57ff" alt="Davidmodzz" />
+  </a>
 
   <p align="center">
     Un fascinante bot de Akinator en WhatsApp que te permite disfrutar del juego directamente en la plataforma de mensajería, adivinando a qué personaje estás pensando con preguntas inteligentes y entretenidas.
